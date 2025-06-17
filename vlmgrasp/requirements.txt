@@ -1,0 +1,8 @@
+dashscope
+rospy
+numpy
+PyAudio
+opencv-python
+PyYAML
+requests
+tf-transformations
